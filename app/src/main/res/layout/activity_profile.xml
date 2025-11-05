@@ -1,0 +1,11 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content"  android:text="Profil użytkownika" android:textSize="22sp" />
+    <EditText android:hint="Imię" android:layout_width="match_parent" android:layout_height="wrap_content" />
+    <EditText android:hint="Email" android:layout_width="match_parent" android:layout_height="wrap_content" />
+</LinearLayout>
